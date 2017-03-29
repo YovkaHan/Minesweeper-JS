@@ -1,0 +1,11 @@
+{
+  "name": "Minesweeper-JS",
+  "version": "0.2.0",
+  "description": "Minesweeper game",
+  "main": "index.html",
+  "author": "Igor Yovka",
+  "license": "MIT",
+  "dependencies": {
+	"express": "^4.14.0"
+  }
+}
